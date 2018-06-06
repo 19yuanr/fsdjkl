@@ -8,6 +8,7 @@ namespace fsdjkl
         {
             Console.WriteLine("birth?!");
             Console.WriteLine("A kid to diddle.");
+            Console.WriteLine("Reena's corpse");
         }
     }
 }
